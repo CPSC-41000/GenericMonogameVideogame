@@ -1,4 +1,4 @@
-# MyMonoGameProject
+# GenericMonoGameProject
 
 1. Clone
    git clone https://github.com/yourname/MyMonoGameProject.git
