@@ -1,7 +1,7 @@
 # GenericMonoGameProject
 
 1. Clone
-   git clone https://github.com/yourname/MyMonoGameProject.git\
+   git clone https://github.com/yourname/MyMonoGameProject.git <br />
    cd MyMonoGameProject\
 
 3. Restore & build
